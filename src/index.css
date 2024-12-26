@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #141516;
+    color: #61dafb;
+    font-family: Arial, sans-serif;
+    font-size: 22rem;
+    font-weight: bold;
+}
+
+#time {
+    text-shadow: 0 0 10px rgba(97, 218, 251, 0.8);
+}
